@@ -1,0 +1,59 @@
+<!doctype html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<title> violencia en el Mundo </title>
+<link rel="stylesheet" href="css/ESTILOS.css">
+</head>
+
+<body>
+/* <div id="particles-js"></div>  */
+
+                  <script src="particles.js"> </script>
+	          <script src="particulas.js"> </script>
+</body><header>
+<section id="logo">  <img src="imagen2/viole1.jpg" width="200" height="200"> </section>
+<section id="banner"> <img src="imagen2/logo2.jpg" width="800" height="200">  </section>
+
+</header>
+
+<nav>
+<LI><A HREF="VIOLENCIA A LA MUJER.html">VIOLENCIA A LA MUJER</a>
+<p></p>
+<LI><A HREF="VIOLENCIA PSICOLOGICA.html">VIOLENCIA PSICOLOGICA</a>
+<LI><A HREF="VIOLENCIA FAMILIAR.html"> VIOLENCIA FAMILIAR</a>
+
+</nav>
+
+<main> 
+<article><img src="imagen2/estadi.jpg" width="700"; height="300"></article>
+<aside> <h1>Violencia en el Mundo </h1>
+Es un grave problema que estamos pasando los seres humanos 
+pero no encontramos autoridades que puedan solucionar esto, estos 
+son los problemas que matan al mundo. 
+<p></p>
+<b>En esta web-site obtendras informacion de los tipos de violencia mas
+comunes en el mundo y los cuales estan prejudicando y terminando de matar
+a todas las personas, llego el momento de poner un alto ante este tema.</b>
+</aside>
+
+<table border=2>
+<tr>
+<td><img src="imagen2/vm1 me.jpg" width="350" height="350"></td>
+<td><img src="imagen2/vf3 a1.jpg" width="350" height="350"></td>
+<td><img src="imagen2/vp2 a2.jpg" width="280"height="350"></td>
+</tr>
+</table>
+
+</main>
+
+<footer> </footer>
+
+</body>
+</html>
+
+<footer> Cualquier comentario comunicarse con el correo silvacordovamanuel20@gmail.com o si desea comunicarse llamar al 952896347 </footer>
+
+</body>
+</html>

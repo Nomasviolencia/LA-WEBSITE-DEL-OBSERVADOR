@@ -1,0 +1,48 @@
+<!doctype html>
+
+<head>
+<meta  http-equiv='Content-Type' content='text/html; charset=iso-8859-1' >
+
+<title> violencia en el Mundo </title>
+<style>
+*{margin:0;padding:0;}
+html{background-color:black;}
+
+body{width:1000px; height:800px; margin:auto; background-color:red;}
+
+header{width:1000px; height:200px; background-color:blue;}
+nav{width:1000px;height:200px;background-color:red;}
+main{width:1000px;height:500px;background-color:orange;}
+footer{width:1000px;height:150px;background-color:magenta;}
+
+section#banner{width:1000px;height:150px;float:left;background-color:red;}
+
+article{width:500px; height:500px; float:left; background-color:orange;}
+aside{width:500px; height:500px; float:left; background-color:purple;}
+
+</style>
+</head>
+
+<body>
+<header>
+<section id="banner"> <a href="9maquetacion2.html"><img src= "imagen/VM 1.jpg" width="1000" height="200"></a></section>
+</header>
+
+<nav>Las Naciones Unidas definen la violencia contra la mujer como «todo acto de violencia de género que resulte, o pueda tener como resultado un daño físico, sexual o psicológico para la mujer, inclusive las amenazas de tales actos, la coacción o la privación arbitraria de libertad, tanto si se producen en la vida pública como en la privada. 
+Otras definiciones acerca de Violencia a la mujer o La violencia contra la mujer presenta en un panorama mundial de este tipo de violencia, en particular en lo que hace a la salud de la mujer y la niña. La carpeta de información se centra en la violencia en la familia, la violación y la agresión sexual, la violencia contra la mujer en situaciones de conflicto y desplazamiento, al igual que la violencia contra la niña. Asimismo, se exploran las consecuencias de la violencia en la salud de la mujer y la función que pueden desempeñar los trabajadores de salud pública en los esfuerzos multisectoriales para poner fin a la violencia. Se destaca además una muestra de actividades gubernamentales y no gubernamentales que se llevan a cabo en todo el mundo para poner fin a la violencia contra la mujer y mitigar sus consecuencia.
+Dia a dia en nuestro pais obsevamos a mujeres muertas en lo que va del año, en el Perù van mas de 50 mujeres muertas. Pero hasta cuando sera esto? Las autoridades hacen algo al respecto para terminar con esto. Es el momento de ponerle el alto a este problema que esta terminando con todos.
+ <a href="9maquetacion2.html"></a></nav>
+
+<main> 
+<article><iframe width= "500" height="500" src="video/Violencia 1.mp4" frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picutre" allowfullscreen>
+</iframe>&nbsp;</td></article> 
+<aside><img src= "imagen/violemu1.jpg" width="500"; height="500"></aside>
+</main>
+
+<footer> 
+<H1> "Nuestros hombres creen que ganar dinero y dar órdenes son la base del poder. No creen que el poder está en las manos de una mujer que cuida de todos durante el día y da a luz". Margaret Atwood </H1> </footer>
+
+</body>
+</html>
+
